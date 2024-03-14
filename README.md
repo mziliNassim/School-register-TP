@@ -2,7 +2,7 @@
 
 Welcome to the School Form Register project! This web application allows users to register for school by filling out a form. The project is built using HTML, CSS, and JavaScript to ensure a seamless and responsive experience across all devices.
 
-[Website Preview](https://mzilinassim.github.io/register/)
+👉🏼 [[Website Preview]](https://mzilinassim.github.io/School-register-TP/)
 
 ## Features
 
